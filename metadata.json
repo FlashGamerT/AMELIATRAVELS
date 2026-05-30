@@ -1,0 +1,6 @@
+{
+  "name": "Amelia Tours and Travels",
+  "description": "Reliable and professional Kerala taxi service of Amelia Tours & Travels. Quality vehicle rentals, airport transfers, and customized tours.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
